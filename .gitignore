@@ -30,7 +30,7 @@ fp-info-cache
 *.ses
 
 #macos
-*.DS_Store
+.DS_Store
 
 # Exported BOM files
 *.xml
