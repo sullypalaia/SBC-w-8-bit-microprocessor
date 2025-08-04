@@ -3529,7 +3529,7 @@
 			)
 		)
 	)
-	(global_label "BUS_1"
+	(global_label "Cout"
 		(shape input)
 		(at 82.55 137.16 270)
 		(fields_autoplaced yes)
@@ -3541,7 +3541,7 @@
 		)
 		(uuid "69f1dfbc-098b-4920-b642-3da2237acf0c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 82.55 146.1323 90)
+			(at 82.55 144.4389 90)
 			(effects
 				(font
 					(size 1.27 1.27)
