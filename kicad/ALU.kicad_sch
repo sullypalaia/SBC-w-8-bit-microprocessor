@@ -3507,7 +3507,7 @@
 			)
 		)
 	)
-	(global_label "LD_X"
+	(global_label "LD_A"
 		(shape input)
 		(at 217.17 48.26 180)
 		(fields_autoplaced yes)
@@ -3519,7 +3519,7 @@
 		)
 		(uuid "6459a108-c3f6-4e86-9d45-1b27b341c6f8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.7096 48.26 0)
+			(at 209.8305 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5641,7 +5641,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcab513a-c302-4855-ace9-4d84b064e986")
-		(property "Reference" "X_REG_TRANSCEIVER1"
+		(property "Reference" "ACCUMULATOR"
 			(at 234.95 35.56 0)
 			(effects
 				(font
@@ -5748,7 +5748,7 @@
 		(instances
 			(project "my_computer"
 				(path "/d90612be-a4bb-4b59-8bc6-93e31ea1f515/302200b6-361c-456d-bc2e-53c1b83aa47a"
-					(reference "X_REG_TRANSCEIVER1")
+					(reference "ACCUMULATOR")
 					(unit 1)
 				)
 			)
