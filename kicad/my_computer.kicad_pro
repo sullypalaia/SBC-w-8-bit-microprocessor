@@ -628,6 +628,10 @@
     [
       "c615629e-eecb-4372-9664-f86a9a07b213",
       "ALU_REGS"
+    ],
+    [
+      "117e83a4-c196-48c8-a5be-455f653a576a",
+      "Control Unit"
     ]
   ],
   "text_variables": {}
